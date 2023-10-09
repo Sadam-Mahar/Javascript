@@ -23,4 +23,4 @@
 let Myname = "Sadam Hussain"
 let MyNumber = 03041139358
 let MyAddress = "GVS Academy"
-console.table(Myname, MyNumber, MyAddress)
+console.table([Myname, MyNumber, MyAddress])
